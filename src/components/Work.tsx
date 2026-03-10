@@ -5,33 +5,33 @@ import { MdArrowBack, MdArrowForward } from "react-icons/md";
 
 const projects = [
   {
-    title: "Solid Starters",
-    category: "Low-Code Platform",
-    tools: "Angular, Next.js, NestJS, MongoDB",
+    title: "AI Teacher Platform",
+    category: "AI Education",
+    tools: "AI Avatars, Personalized Lessons, Course Management",
     image: "/images/Solidx.png",
   },
   {
-    title: "Radix",
-    category: "E-Commerce",
-    tools: "Angular, Next.js, NestJS, CMS",
+    title: "Real-Time Big Data System",
+    category: "Big Data & Streaming",
+    tools: "Spark Structured Streaming, Docker, yFinance, Binance APIs",
     image: "/images/radix.png",
   },
   {
-    title: "Bond Cancellation",
-    category: "Import-Export Automation",
-    tools: "Angular, Next.js, NestJS, Workflows",
+    title: "Stock Prediction & Sentiment",
+    category: "ML & NLP",
+    tools: "LSTM, FinBERT, Twitter Sentiment, ~75% Accuracy",
     image: "/images/bond.png",
   },
   {
-    title: "Sapphire",
-    category: "CRM Platform",
-    tools: "AngularJS, NestJS, PostgreSQL",
+    title: "LogLLM Anomaly Detection",
+    category: "AI & Log Analysis",
+    tools: "ChromaDB, LSTM, LangChain, Retrieval Pipelines",
     image: "/images/sapphire.png",
   },
   {
-    title: "Mpro",
-    category: "Insurance Platform",
-    tools: "React.js, Node.js, Microservices",
+    title: "d-chat (Decentralized Chat)",
+    category: "Web3 & Security",
+    tools: "MetaMask, AES-256, IPFS, Filecoin",
     image: "/images/Maxlife.png",
   },
 ];
