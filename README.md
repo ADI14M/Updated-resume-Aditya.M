@@ -16,7 +16,7 @@
 
 A modern, interactive 3D portfolio website showcasing my work in **AI/ML**, **Data Engineering**, and **Full-Stack Development**. Features a fully animated 3D character, immersive physics-based tech stack visualization, smooth scroll animations, and a custom cursor — all built for performance and visual impact.
 
-![Portfolio Preview](public/images/preview.png)
+!
 
 ---
 
